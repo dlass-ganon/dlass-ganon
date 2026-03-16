@@ -1,5 +1,5 @@
-### Hello, my name is dlass.
-I'm from Malaysia. And also a secondary student.
+### Hello, my name is dlass 🪪
+I'm from Malaysia 🇲🇾. And also a secondary student.
 
 #### I do coding and optimization:
 [My skills]
