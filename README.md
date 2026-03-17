@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FldHJ0dDIxcnFhMjIwMW13bzd2YnF1ZXBrN2k0aHNtd2loaGExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif"  />
+<img align="right" height="200" 
+  src="https://s6.ezgif.com/tmp/ezgif-6fb14f099eb09678.gif"  />
 
 ###
 
