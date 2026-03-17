@@ -52,7 +52,7 @@ And when I feel bored, I hop onto Steam and play some **TF2** or **Terraria**.
 - My Discord user is `dlassvhggc`. Do message me if you want to talk about anything.
 
 <a href="https://discordapp.com/users/770478291626885162" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=dlass&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 
 <br>
