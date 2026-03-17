@@ -1,11 +1,13 @@
+### Hello, my name is dlass 🪪
 <br clear="both">
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR1azkyNGozZW14a2FwbDMwZTc1aThvZTk2aTY1d2pubmw3aTVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif"  />
-
-### Hello, my name is dlass 🪪
 I'm from Malaysia 🇲🇾. And also a secondary student.
 
 #### I do coding and optimization:
 [My skills]
+- Python
+- Javascript
+- HTML
 ###
 
 <div align="left">
