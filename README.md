@@ -1,7 +1,14 @@
-## Hello, my name is dlass 🪪.
-I'm from Malaysia 🇲🇾. And also a secondary student.
-<br clear="both">
+<h2 align="left">Hello, my name is dlass 🪪.</h2>
+
+###
+
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FldHJ0dDIxcnFhMjIwMW13bzd2YnF1ZXBrN2k0aHNtd2loaGExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif"  />
+
+###
+
+<p align="left">I'm from Malaysia 🇲🇾. And also a secondary student.</p>
+
+###
 #### I do coding and optimization:
 [My skills]
 ###
