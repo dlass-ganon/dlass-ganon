@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="75" 
+<img align="right" height="175" 
   src="https://tenor.com/en-GB/view/konakonagifs-lucky-star-konata-izumi-ice-cream-eating-gif-6928520639205638402.gif"  />
 
 ###
