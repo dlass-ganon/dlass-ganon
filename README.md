@@ -2,8 +2,8 @@
 
 ###
 
-<img align="right" height="200" 
-  src="https://s6.ezgif.com/tmp/ezgif-6fb14f099eb09678.gif"  />
+<img align="right" height="75" 
+  src="https://tenor.com/en-GB/view/konakonagifs-lucky-star-konata-izumi-ice-cream-eating-gif-6928520639205638402.gif"  />
 
 ###
 
