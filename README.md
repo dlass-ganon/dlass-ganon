@@ -1,8 +1,9 @@
+<br clear="both">
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR1azkyNGozZW14a2FwbDMwZTc1aThvZTk2aTY1d2pubmw3aTVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif"  />
+
 ### Hello, my name is dlass 🪪
 I'm from Malaysia 🇲🇾. And also a secondary student.
-<br clear="both">
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR1azkyNGozZW14a2FwbDMwZTc1aThvZTk2aTY1d2pubmw3aTVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif"  />
 #### I do coding and optimization:
 [My skills]
 ###
@@ -14,6 +15,8 @@ I'm from Malaysia 🇲🇾. And also a secondary student.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+###
 
 #### I use a:
 - `Dell latitude E5470`, it's not strong but it get's the job done.
