@@ -6,7 +6,8 @@
 
 <img align="right" height="175" src="https://tenor.com/en-GB/view/konakonagifs-lucky-star-konata-izumi-ice-cream-eating-gif-6928520639205638402.gif" />
 
-<p align="left">I'm from Malaysia 🇲🇾. And i'm also a secondary student.</p>
+<p align="left"> I'm from Malaysia 🇲🇾. I'm also a secondary student. Aswell as a uncertified therapist.</p>
+
 
 <br>
 
@@ -55,7 +56,6 @@ And when I feel bored, I hop onto Steam and play some **TF2** or **Terraria**.
   <img src="https://img.shields.io/static/v1?message=dlass&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 
-<br>
 <br>
 
 </td>
