@@ -6,7 +6,7 @@
 
 <img align="right" height="175" src="https://tenor.com/en-GB/view/konakonagifs-lucky-star-konata-izumi-ice-cream-eating-gif-6928520639205638402.gif" />
 
-<p align="left"> I'm from Malaysia 🇲🇾. I'm also a secondary student. Aswell as a uncertified therapist.</p>
+<p align="left"> I'm from Malaysia 🇲🇾. I'm also a secondary student.</p>
 
 
 <br>
